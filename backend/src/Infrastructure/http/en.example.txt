@@ -1,5 +1,0 @@
-#SID = "ACb8d8cc04f4f19bc714f374b86404ba5e"
-#TOKEN = "a964a2ee1aceb1fbb8a899e275513bd2"
-#JWT_SECRET_KEY = "kyEZKsr8LKcMJ4EX2-2_uY27aicHMsv-WUJFKObm7eM"
-
-#python -c "import secrets; print(secrets.token_urlsafe(32))"
