@@ -1,0 +1,68 @@
+
+/////////////// user /////////////////
+
+{
+    "id":"1",
+    "name": "ch",
+    "email": "ch@tst.com",
+    "password": "123123",
+    "cnpj" : "123456700099",
+    "phone" : "+5511971334896"
+
+}
+
+ativar
+{
+    "email": "ch@tst.com",
+    "code": "6631"
+
+}
+
+login
+
+{
+    "email": "ch@tst.com",
+    "password": "123123"
+}
+
+
+
+
+
+
+///////////// produto ////////////////
+
+
+{
+    "name": "Produto Teste",
+    "price": 99.90,
+    "quantity": 10,
+}
+
+fromulario
+
+{
+    "name": "Notebook Dell Inspiron",
+    "price": 4299.90,
+    "quantity": 15,
+    "status": "Ativo",
+    "image": "file/xxxxxx"
+}
+
+
+////////////// venda /////////
+
+vendedor
+
+{
+    "name": "João Vendedor",
+    "email": "joao@exemplo.com",
+    "status": "Ativo"
+}
+
+
+{
+    "product_id": 1,
+    "seller_id": 1,
+    "quantity": 2
+}

@@ -1,0 +1,25 @@
+# Ambiente virtual:
+.venv/
+.env/
+# Arquivos de cache do Python:
+__pycache__ /
+*.pyc
+*.pyo
+*.pyi
+# Arquivos de log:
+*.log
+# Arquivos temporários:
+*.tmp
+*.bak
+*.old
+# Arquivos de configuração do sistema operacional:
+~/.bash_history
+~/.bash_profile
+~/.bashrc
+# Arquivos de configuração do editor de código (se aplicável):
+~/.vscode/settings.json
+~/.editorconfig
+# Outros:
+*.db (bancos de dados)
+*.cache
+*.DS_Store (Mac)
