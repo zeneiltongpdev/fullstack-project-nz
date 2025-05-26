@@ -24,4 +24,3 @@ __pycache__ /
 *.cache
 *.DS_Store (Mac)
 
-src/infrastructure/http/en.txt
